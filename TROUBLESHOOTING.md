@@ -82,7 +82,7 @@ npm install
 
 ## Issue: Approuter invalid redirect_uri:
 
-**SAP NOTE**: https://launchpad.support.sap.com/#/notes/2864831
+**SAP NOTE**: https://launchpad.support.sap.com/#/notes/
 
 Some learners also reported that there is currently an issue with the approuter: 
 
